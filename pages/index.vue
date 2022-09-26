@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Tutorial />
+    <LazyTutorial />
   </div>
 </template>
 
